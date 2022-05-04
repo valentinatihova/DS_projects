@@ -9,7 +9,7 @@
 Необходимо постоить модель с предельно большим значением F1-меры, AUC-ROC.
 
 ## Используемые библиотеки
-Pandas, Matplotlib, Seaborn, numpy, sklearn, math, Machine Learning
+Pandas, Matplotlib, Seaborn, numpy, sklearn.tree, sklearn.ensemble, sklearn.linear_model, sklearn.model_selection, sklearn.metrics, sklearn.utils, sklearn.preprocessing, IPython.display
 
 ## Ключевые слова
 Kaggle, F1-мера, AUC-ROC, баланс\дисбаланс классов, несбалансированность классов, проводение обучения, валидации и финального тестирование модели
