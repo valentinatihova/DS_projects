@@ -1,5 +1,5 @@
 # Выбор локации для скважины
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valentinatihova/DS_projects/blob/main/ml_for_business/ml_for_business.ipynb)
 ## Данные
 Предоставлены пробы нефти в трёх регионах. Характеристики для каждой скважины в регионе уже известны. 
 
