@@ -1,4 +1,5 @@
 # Рекомендация тарифов
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valentinatihova/DS_projects/blob/main/bank_churn_prediction/bank_churn_prediction.ipynb#scrollTo=MkO4DeuPJ3Ko)
 
 ## Данные
 Данные о поведении клиентов, которые пользуются разными тарифами связями.
