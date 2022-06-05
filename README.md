@@ -1,7 +1,7 @@
 # DS_projects
 Repository containing portfolio of data science projects using Python.
 
-Reach me on [Linkedin](www.linkedin.com/in/valentina-tikhova) | [Telegram](https://t.me/Tikhova_Valentina)
+Reach me on <p><a href="https://www.linkedin.com/in/valentina-tikhova"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://t.me/Tikhova_Valentina"><img src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a></p>
 
 ## List of projects
 
