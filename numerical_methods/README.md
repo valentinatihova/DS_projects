@@ -1,5 +1,5 @@
 # Численные методы
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valentinatihova/DS_projects/blob/main/decode_data_for_ml/decode_data.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valentinatihova/DS_projects/blob/main/numerical_methods/numerical_methods.ipynb)
 
 ## Данные
 Сервис по продаже автомобилей с пробегом «Не бит, не крашен» разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля.
